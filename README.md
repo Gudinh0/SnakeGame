@@ -1,3 +1,3 @@
 # SnakeGame
 
-Devenvlvimento do famoso "Jogo da Cobrinha" em uma pagina ccom HTML, CSS e JavaScript
+Devenvolvimento do famoso "Jogo da Cobrinha" em uma pagina com HTML, CSS e JavaScript
